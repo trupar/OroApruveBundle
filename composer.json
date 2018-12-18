@@ -15,7 +15,7 @@
         "exclude-from-classmap": ["/Tests/"]
     },
     "require": {
-        "oro/commerce": "3.2.x-dev"
+        "oro/commerce": "dev-releaseTests"
     },
     "repositories": {
         "oro": {
